@@ -1,5 +1,9 @@
 #theme: jekyll-theme-minimal
-#theme: just-the-docs
-theme: jekyll-theme-time-machine
-title: CSCI-KNOX's homepage
-description: Bookmark this to keep an eye on my project updates!
+#theme: jekyll-theme-time-machine
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+show_downloads: true #["true" or "false" (unquoted) to indicate whether to provide a download URL]
+
+title: CSCI-KNOX Sample Protfolio
+description: This is an example site to show an example portfolio for CCSPB 3112
