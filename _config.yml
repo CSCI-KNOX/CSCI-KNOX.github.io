@@ -1,4 +1,3 @@
-markdown: kramdown
 
 theme: jekyll-theme-minimal
 #theme: jekyll-theme-time-machine
@@ -7,6 +6,10 @@ theme: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 show_downloads: true #["true" or "false" (unquoted) to indicate whether to provide a download URL]
-
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  
 title: CSCI-KNOX Sample Protfolio
 description: This is an example site to show an example portfolio for CCSPB 3112
