@@ -1,7 +1,7 @@
 markdown: kramdown
 
-#theme: jekyll-theme-minimal
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-minimal
+#theme: jekyll-theme-time-machine
 #remote_theme: pages-themes/time-machine@v0.2.0 does not handle details well, no table shown.
 #remote_theme: pages-themes/slate@v0.2.0
 plugins:
