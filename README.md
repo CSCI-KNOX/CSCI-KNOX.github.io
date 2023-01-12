@@ -8,8 +8,8 @@ This is the README.md
   <summary> Here is a collapsed section</summary>
   
 * item 1
-* item 2
-* [link to another page](other_page)
+* [link to another page](Project-1.md)
+* [link to another page](Project1.md)
 * item 4
   
 </details>
