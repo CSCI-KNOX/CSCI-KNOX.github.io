@@ -13,3 +13,9 @@ This is the README.md
 * item 4
   
 </details>
+
+Table:
+| table | col | 
+| ------|-----|
+|1|2|
+|3|4|
