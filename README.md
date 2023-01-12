@@ -3,6 +3,9 @@
 
 This is the README.md
 
+- list A
+- list B
+- list C
 
 <details>
   <summary> Here is a collapsed section</summary>
