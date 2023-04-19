@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<!--
+	Sample page for personal web site 
+	Univ of Colorado Boulder - CSPB 3112
+-->
+<html>
+	<head>
+		<title>CSPB 3112 - Generic Page for Weekly Updates</title>
+		<meta charset="utf-8" />
+        <style>
+            body {
+              background-color: lightgrey;
+              color: blue;
+            }
+
+            h1 {
+              background-color: black;
+              color: white;
+            }
+
+            .weekly {
+              background-color: AQUA;
+              color: OLIVE;
+            }
+
+            .weektext {
+              color: black;
+            }
+        </style>
+	</head>
+	<body>
+        <div class="weekly">
+            <H3>Week 1</h3>
+            <p style="color:blue">
+                This is blue text
+            </p>
+                <object data="week_1.txt" border="1" style="border-color:black;color:blue"></object>
+                <object data="week_1.html" border="1" style="color:orange"></object>
+        </div>
+        <hr>
+        
+        <div class="weekly">
+            <H3>second method for text</h3>
+            <p style="color:red">This is red text</p>
+            <embed src="week_2.txt">
+        </div>
+    
+        <div class="weekly">
+            <H3>third method for text</h3>
+            <object width="80%" type="text/html" data="week_3.html" border="1" style="border-color:black;  font-family:'Times New Roman', Times, serif;" >
+            </object>
+            <br>
+            <object width="80%" type="text/html" data="week_3.txt" border="1" style="border-color:olive;  font-family:'Times New Roman', Times, serif;" >
+
+        </div>
+    
+        
+        
+    </body>
+</html>     

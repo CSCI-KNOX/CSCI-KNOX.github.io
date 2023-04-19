@@ -19,6 +19,8 @@ List:
 * item 1
 * [Project 1](Project-1.md)
 * [Project 2](Project-2.md)
+* [Sample HTML page](sample.html)
+
 * item 4
 
 <details>
