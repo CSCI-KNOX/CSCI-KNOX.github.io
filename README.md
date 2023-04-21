@@ -20,6 +20,7 @@ List:
 * [Project 1](Project-1.md)
 * [Project 2](Project-2.md)
 * [Sample HTML page](sample.html)
+* [Sample Status Reports page](status_report.html)
 
 * item 4
 
