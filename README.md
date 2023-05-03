@@ -1,4 +1,5 @@
-# CSCI-KNOX Portfolio
+# CSCI-KNOX Portfolio 
+version 1.6
 
 
 This is the README.md
